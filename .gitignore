@@ -1,0 +1,9 @@
+*-cache.lib
+*.bak
+*.lck
+*.csv
+*.xml
+fp-info-cache
+*.kicad_prl
+hd44780_tutorial-backups/
+trash/
