@@ -6,3 +6,4 @@ My inspiration for this PCB came from watching Ian Ward's YouTube video:
 
 
 ![PCB Front Image](HD44780-tutorial-PCB-front.jpg)
+![PCB Back Image](HD44780-tutorial-PCB-back.jpg)

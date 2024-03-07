@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.10"
     },
-    "CreationDate": "2024-03-06T00:08:41-08:00"
+    "CreationDate": "2024-03-06T22:35:53-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "hd44780_tutorial",
       "GUID": "68643434-3738-4305-9f74-75746f726961",
-      "Revision": "0.9.04"
+      "Revision": "1.0"
     },
     "Size": {
       "X": 157.2756,
