@@ -14,6 +14,6 @@ My inspiration for this PCB came from following Ian Ward's project on his web si
 
 ## Component Count: 18
 
-Ref | Qty | Value | Vendor | Vendor\Part # | Vendor URL | Datasheet | Description
+Ref | Qty | Value | Vendor | Vendor\Part # | Description
 ----|-----|-------|--------|----------|-----------|-------------
-C1, C2| 2 | .01uF | Digikey | FG28C0G1H103JNT06 | https://www.digikey.com/en/products/detail/tdk-corporation/FG28C0G1H103JNT06/5803088 | https://product.tdk.com/en/system/files?file=dam/doc/product/capacitor/ceramic/lead-mlcc/catalog/leadmlcc_halogenfree_fg_en.pdf | Unpolarized capacitor 
+C1, C2 | 2 | .01uF | Digikey | Digikey\FG28C0G1H103JNT06 | Unpolarized capacitor 
