@@ -7,3 +7,13 @@ My inspiration for this PCB came from following Ian Ward's project on his web si
 
 ![PCB Front Image](HD44780-tutorial-PCB-front.jpg)
 ![PCB Back Image](HD44780-tutorial-PCB-back.jpg)
+
+# HD44780 Tutorial PCB BOM
+
+## Wed Mar 20 05:20:29 2024
+
+## Component Count:18
+
+Ref | Qty | Value | Digikey | Datasheet | Description
+----|-----|-------|---------|-----------|------------
+C1, C2| 2 | .01uF | FG28C0G1H103JNT06 | https://product.tdk.com/en/system/files?file=dam/doc/product/capacitor/ceramic/lead-mlcc/catalog/leadmlcc_halogenfree_fg_en.pdf | Unpolarized capacitor 
