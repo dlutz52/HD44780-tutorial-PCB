@@ -12,7 +12,7 @@ My inspiration for this PCB came from following Ian Ward's project on his web si
 
 ## Wed, Mar 20, 2024, 05:20:29
 
-## Component Count: 18
+## Component Count: 19
 
 Ref | Qty | Value | Vendor\Part # | Description
 ----|-----|-------|---------------|-----------
@@ -23,7 +23,7 @@ D3 | 1 | 8_SEG_LED  BAR_GRAPH (RED) | Generic | LED Bar Graph\Red\1x8
 D4 | 1 | GREEN | Generic | LED\3mm\Green 
 D5 | 1 | YELLOW | Generic | LED\3mm\Yellow
 H1, H2, H3, H4 | 4 | MountingHole | KiCad | M2.5 
-J1 | 1 | LCD_2004_PinSocket_1x16_P2.54mm_Vertical | Generic | Female Pin Header\1x16\2.54mm pitch
+J1 | 1 | PinSocket_1x16_P2.54mm_Vertical | Generic | Female Pin Header\1x16\2.54mm pitch
 J2 | 1 | UJC-HP-3-SMT-TR | Digikey\2223-UJC-HP-M-G-5-MSMT-TRDKR-ND | Type C/20 VDC/3A/Horizontal/6 Pin/Power Only
 R1, R5, R6, R9 | 4 | 330ohm | Digikey\13-MFR-25FRF52-330RCT-ND | Resistor\330 Ohm\1%\1/4W\Axial
 R2, R3, R4 | 3 | 1Kohm | Digikey\13-MFR-25FTE52-1KCT-ND | Resistor\1Kohm\1%\1/4W\Axial
