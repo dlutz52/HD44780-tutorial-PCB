@@ -34,3 +34,7 @@ S1 | 1 | TL2230 | Digikey\EG6031-ND | Switch\Pushbutton\DPDT\Through Hole
 SW1 | 1 | REG SELECT | Digikey\450-1654-ND | Switch\Tactile\SPST-NO\0.05A\24V\Through Hole
 SW2 | 1 | ENABLE | Digikey\450-1654-ND | Switch\Tactile\SPST-NO\0.05A\24V\Through Hole
 SW3 | 1 | DS02C-254-1L-08BE | Digikey\2223-DS02C-254-1L-08BE-ND | Switch\Piano\8-DIP\SPST\25mA\24V\Through Hole
+
+The LCD and its 16-pin male header are represented only with 3D models, but you need a 2004 LCD with a soldered 16-pin male header with a pitch of 2.54mm to plug into the 16 pin female header to complete this PCB.
+
+Most symbols/footprints/models are contained under the libraries directory. Capacitors, resistors and LEDs use KiCad symbols/footprints/models.
