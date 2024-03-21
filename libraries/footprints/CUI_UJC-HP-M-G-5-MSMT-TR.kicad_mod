@@ -55,7 +55,7 @@
     (solder_mask_margin 0.102) (tstamp dc679aed-17f9-4bdf-8fda-82fd38c9f61f))
   (pad "S4" thru_hole oval (at 4.32 3.8) (size 1 2) (drill oval 0.5 1.2) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp 5e818a68-9595-4abd-b5d3-e131084b0ff5))
-  (model "${KIPRJMOD}/libraries/3dmodels/UJC-HP-3-SMT-TR.step"
+  (model "${KIPRJMOD}/libraries/3dmodels/UJC-HP-M-G-5-MSMT-TR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
