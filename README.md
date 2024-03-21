@@ -22,7 +22,6 @@ D2 | 1 | BLUE | Generic | LED\3mm\Blue
 D3 | 1 | 8_SEG_LED  BAR_GRAPH (RED) | Generic | LED Bar Graph\Red\1x8 
 D4 | 1 | GREEN | Generic | LED\3mm\Green 
 D5 | 1 | YELLOW | Generic | LED\3mm\Yellow
-H1, H2, H3, H4 | 4 | MountingHole | KiCad | M2.5 
 J1 | 1 | PinSocket_1x16_P2.54mm_Vertical | Generic | Female Pin Header\1x16\2.54mm pitch
 J2 | 1 | UJC-HP-M-G-5-MSMT-TR | Digikey\2223-UJC-HP-M-G-5-MSMT-TRDKR-ND | Type C/20 VDC/3A/Horizontal/6 Pin/Power Only
 R1, R5, R6, R9 | 4 | 330ohm | Digikey\13-MFR-25FRF52-330RCT-ND | Resistor\330 Ohm\1%\1/4W\Axial
