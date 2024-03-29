@@ -35,6 +35,12 @@ SW1 | 1 | REG SELECT | Digikey\450-1654-ND | Switch\Tactile\SPST-NO\0.05A\24V\Th
 SW2 | 1 | ENABLE | Digikey\450-1654-ND | Switch\Tactile\SPST-NO\0.05A\24V\Through Hole
 SW3 | 1 | DS02C-254-1L-08BE | Digikey\2223-DS02C-254-1L-08BE-ND | Switch\Piano\8-DIP\SPST\25mA\24V\Through Hole
 
-The LCD and its 16-pin male header are represented only with 3D models, but you need a 2004 LCD with a soldered 16-pin male header with a pitch of 2.54mm to plug into the 16 pin female header to complete this PCB. Do NOT try to use a 2004 LCD with an I2C adapter on it.
+The LCD and its 16-pin male header are represented only with 3D models, but you need a 2004 LCD with a soldered 16-pin male header with a pitch of 2.54mm to plug into the 16 pin female header to complete this PCB. I have found the best place to get these is on eBay.
 
-Most symbols/footprints/models are contained under the libraries directory. Capacitors, resistors and LEDs use KiCad symbols/footprints/models.
+Do NOT try to use a 2004 LCD with an I<sup>2</sup>C adapter on it.
+
+Most symbols/footprints/models are contained under the 'libraries' directory. Capacitors, resistors and LEDs use KiCad symbols/footprints/models.
+
+KiCad 7.0.10 was used to create this PCB. KiCad 8.0.1 is out now and this project opens in that version. The newer KiCad will warn that this project was created in previous version and will be saved in a the newer format. When closing the schematic or a PCB just discard any changes. If you do not you will not be able to use KiCad 7 any more without difficulties.
+
+Some models in KiCad's 3D view will display an appropriate socket under them but these can be omitted on the PCB - they are used to make it easier to replace any components should they need it in the future.
